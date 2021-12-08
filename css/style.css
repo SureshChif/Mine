@@ -111,6 +111,7 @@ hr{
 .mid{
     /* padding: 50px 0px 50px 25px; */
     padding-left: 25px;
+    padding-top: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -135,7 +136,7 @@ hr{
 .mid .rgt{
     width: 50%;
     text-align: center;
-    padding-top: 70px;
+    padding-top: 60px;
 }
 
 .mid .rgt img{
@@ -185,6 +186,11 @@ hr{
     .nav ul li{ 
        font-size: 1.1rem;
      
+    }
+
+    .mid .rgt img{
+        margin-bottom: 50px;
+       
     }
 
     button{
